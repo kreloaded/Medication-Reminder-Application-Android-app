@@ -1,1 +1,1 @@
-# Medication-Reminder-Application-Android-app
+# Medication Reminder Application - Android
